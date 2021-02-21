@@ -1,4 +1,4 @@
-from Test import *
+from ColorCoder_Test import *
 from ReferenceManual import *
 
 if __name__ == '__main__':
